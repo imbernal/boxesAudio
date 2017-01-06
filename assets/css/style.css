@@ -1,5 +1,12 @@
 body {
-    background-color: black;   
+    background-color: black;
+}
+
+#title{
+    color: white;
+    text-align: center;
+    margin-top: 13%;
+
 }
 
 #instrument {
@@ -48,7 +55,7 @@ body {
 #a {
     background-color: #331f35;
     border: 3px solid #a13fad;
-} 
+}
 
 #b {
     background-color: #43293d;
@@ -95,29 +102,29 @@ body {
 
 /*Active*/
 #c:active {
-    background-color:#db1d2d;   
+    background-color:#db1d2d;
 }
 
 #d:active {
-    background-color:#f93105;   
+    background-color:#f93105;
 }
 
 #e:active {
-    background-color:#fdb408;   
+    background-color:#fdb408;
 }
 
 #f:active {
-    background-color:#05d062;   
+    background-color:#05d062;
 }
 
 #g:active {
-    background-color:#0393d8;   
+    background-color:#0393d8;
 }
 
 #a:active {
-    background-color:#a01bb1;   
+    background-color:#a01bb1;
 }
 
 #b:active {
-    background-color:#f33dc9;   
+    background-color:#f33dc9;
 }
